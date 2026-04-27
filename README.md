@@ -1,4 +1,4 @@
-# TP 11 — Smartphone Localization with Android, PHP, and MySQL
+# Smartphone Localization with Android, PHP, and MySQL
 
 ## Overview
 
